@@ -934,7 +934,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: Match the shapes
+  m_Text: ' Match the object with the currency'
 --- !u!1 &2629697875636132428
 GameObject:
   m_ObjectHideFlags: 0

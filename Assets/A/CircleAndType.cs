@@ -7,6 +7,7 @@ public class CircleAndType : MonoBehaviour
    public ButtonData[] buttons;
    public NameClimate[] nameClimates;
    public int totalCount;
+   public int circleCount;
    int count = 0;
    int nameCount;
    void Start()
@@ -53,6 +54,15 @@ public class CircleAndType : MonoBehaviour
                but.image.enabled = false;
             }
          }
+         if(count == circleCount)
+         {
+            foreach (ButtonData btnDatas in buttons)
+            {
+               //btnData.image.gameObject.SetActive(false); 
+               btnDatas.button.interactable = false;
+            }
+         }
+
          if ((nameCount + count) == totalCount)
          {
             EventManager.GameComplete();

@@ -33,8 +33,8 @@ RectTransform:
   - {fileID: 7195190821401893236}
   m_Father: {fileID: 8347648344606990218}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.7547978, y: 0.20572145}
-  m_AnchorMax: {x: 0.9298374, y: 0.5068859}
+  m_AnchorMin: {x: 0.7061577, y: 0.16282955}
+  m_AnchorMax: {x: 0.98004663, y: 0.6555927}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -111,8 +111,8 @@ RectTransform:
   - {fileID: 4615596480225092040}
   m_Father: {fileID: 8347648344606990218}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.47357208, y: 0.87603617}
-  m_AnchorMax: {x: 0.7982205, y: 0.98081404}
+  m_AnchorMin: {x: 0.47357208, y: 0.8701248}
+  m_AnchorMax: {x: 0.79780954, y: 0.98746425}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -330,10 +330,10 @@ RectTransform:
   - {fileID: 3345018511910521011}
   m_Father: {fileID: 8347648344606990218}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.07650703, y: 0.20413075}
-  m_AnchorMax: {x: 0.25154665, y: 0.5052952}
-  m_AnchoredPosition: {x: 0.5, y: -0.49996948}
-  m_SizeDelta: {x: -1, y: -1}
+  m_AnchorMin: {x: 0.04152478, y: 0.17159139}
+  m_AnchorMax: {x: 0.30027065, y: 0.6330625}
+  m_AnchoredPosition: {x: 0.5, y: -0.9999695}
+  m_SizeDelta: {x: -1, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7487417598434289453
 CanvasRenderer:
@@ -620,8 +620,8 @@ RectTransform:
   - {fileID: 5911737433197653350}
   m_Father: {fileID: 8996385733674174371}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.26701313, y: 0.2516273}
-  m_AnchorMax: {x: 0.71194655, y: 0.6915366}
+  m_AnchorMin: {x: 0.23460436, y: 0.22790319}
+  m_AnchorMax: {x: 0.76913863, y: 0.75931966}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -729,6 +729,7 @@ MonoBehaviour:
   - inputFields: {fileID: 4501511165608023161}
     name: nest
   totalCount: 2
+  circleCount: 1
 --- !u!1 &5485328315149937289
 GameObject:
   m_ObjectHideFlags: 0
@@ -796,11 +797,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 81
+    m_FontSize: 121
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 8
-    m_MaxSize: 81
+    m_MaxSize: 121
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 0
@@ -1081,8 +1082,8 @@ RectTransform:
   - {fileID: 3994196404502263973}
   m_Father: {fileID: 8347648344606990218}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.41657165, y: 0.20572144}
-  m_AnchorMax: {x: 0.59161127, y: 0.5068859}
+  m_AnchorMin: {x: 0.36784327, y: 0.16157794}
+  m_AnchorMax: {x: 0.6417322, y: 0.65434104}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1202,8 +1203,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: " Let\u2019s circle the home of each animal and drag and drop  the name
-    in the blank space"
+  m_Text: " Let\u2019s circle the home of each animal and type the name in the blank
+    space"
 --- !u!1 &8866535213224411782
 GameObject:
   m_ObjectHideFlags: 0

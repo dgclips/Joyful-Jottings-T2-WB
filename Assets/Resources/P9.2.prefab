@@ -145,18 +145,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 329568894013175457}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5957802178263235356}
-  m_Father: {fileID: 6018263453195497340}
+  m_Father: {fileID: 3326789321478275304}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.114864975, y: 0.074710675}
-  m_AnchorMax: {x: 0.25803614, y: 0.96714467}
-  m_AnchoredPosition: {x: 0.5, y: -1.5}
-  m_SizeDelta: {x: -1, y: 1}
+  m_AnchorMin: {x: 0.17164919, y: 0.111717604}
+  m_AnchorMax: {x: 0.36552864, y: 0.44640738}
+  m_AnchoredPosition: {x: 0.7266846, y: -1.1742554}
+  m_SizeDelta: {x: 2.073944, y: 1.1218262}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5857003017903680704
 CanvasRenderer:
@@ -351,6 +351,8 @@ RectTransform:
   - {fileID: 8270597366693450242}
   - {fileID: 7864590368985000543}
   - {fileID: 6018263453195497340}
+  - {fileID: 3440971384562493422}
+  - {fileID: 7543929331525331972}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -736,18 +738,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4632972910900437441}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 326900594744535503}
-  m_Father: {fileID: 6018263453195497340}
+  m_Father: {fileID: 3326789321478275304}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.756753, y: 0.09957573}
-  m_AnchorMax: {x: 0.8804297, y: 0.8871573}
-  m_AnchoredPosition: {x: 0.5, y: -1.5}
-  m_SizeDelta: {x: -1, y: 1}
+  m_AnchorMin: {x: 0.5885413, y: 0.12907979}
+  m_AnchorMax: {x: 0.733527, y: 0.3872307}
+  m_AnchoredPosition: {x: -1.5822754, y: -1.7712402}
+  m_SizeDelta: {x: 3.836914, y: 3.1484375}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7918413854112254822
 CanvasRenderer:
@@ -820,8 +822,8 @@ RectTransform:
   - {fileID: 8435150648141935640}
   m_Father: {fileID: 7864590368985000543}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.054874375, y: 0.17756335}
-  m_AnchorMax: {x: 0.26577678, y: 0.7928203}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0.34030324, y: 1}
   m_AnchoredPosition: {x: 0.5, y: -1.5}
   m_SizeDelta: {x: -1, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -965,7 +967,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6580898145001031903}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -973,9 +975,9 @@ RectTransform:
   - {fileID: 6471862386455919718}
   m_Father: {fileID: 7864590368985000543}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.745498, y: 0.1723247}
-  m_AnchorMax: {x: 0.9564004, y: 0.7875816}
-  m_AnchoredPosition: {x: 0.5, y: -1.5}
+  m_AnchorMin: {x: 0.65249383, y: 0}
+  m_AnchorMax: {x: 0.9985766, y: 1}
+  m_AnchoredPosition: {x: 0.49993896, y: -1.5}
   m_SizeDelta: {x: -1, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2870271036139139801
@@ -1094,7 +1096,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: Circle the picture that matches the letter
+  m_Text: " Let\u2019s circle what you use to buy things from the market"
 --- !u!1 &7419984596380230571
 GameObject:
   m_ObjectHideFlags: 0
@@ -1124,9 +1126,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 3440971384562493422}
-  - {fileID: 7543929331525331972}
+  m_Children: []
   m_Father: {fileID: 3326789321478275304}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.13474679, y: 0.16783778}

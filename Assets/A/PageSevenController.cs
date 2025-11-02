@@ -5,13 +5,7 @@ using UnityEngine.UI;
 
 public class PageSevenController : MonoBehaviour
 {
-   [System.Serializable]
-   public class ColorItem
-   {
-      public Image Image;
-      public Button Button;
-      public Color Color;
-   }
+
     Color _currentColor = Color.white;
     [SerializeField] ColorItem[] _items;
    int counter;
@@ -80,4 +74,11 @@ public class PageSevenController : MonoBehaviour
     {
         ResetGame();
     }
+}
+[System.Serializable]
+public class ColorItem
+{
+   public Image Image;
+   public Button Button;
+   public Color Color;
 }

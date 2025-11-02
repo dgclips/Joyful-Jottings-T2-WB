@@ -87,6 +87,7 @@
     <Compile Include="Assets\A\PageFiftyController.cs" />
     <Compile Include="Assets\Script\RandomBackground.cs" />
     <Compile Include="Assets\A\DrawContinous.cs" />
+    <Compile Include="Assets\Read.cs" />
     <Compile Include="Assets\FullscreenController.cs" />
     <Compile Include="Assets\A\Audio\Sound.cs" />
     <Compile Include="Assets\A\PageSevenController.cs" />
@@ -95,6 +96,7 @@
     <Compile Include="Assets\A\DrawController.cs" />
     <Compile Include="Assets\A\DrawAndPaint.cs" />
     <Compile Include="Assets\PageEightController.cs" />
+    <Compile Include="Assets\PageFiftyFour.cs" />
     <Compile Include="Assets\A\CountCircleController.cs" />
     <Compile Include="Assets\CircleColor.cs" />
     <Compile Include="Assets\A\PageSeventyTwoController.cs" />

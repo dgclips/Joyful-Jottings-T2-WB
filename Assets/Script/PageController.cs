@@ -157,7 +157,7 @@ public class PageController : MonoBehaviour
         {
             return;
         }
-       // AudioManager.audioManager.Play(pageName);
+        AudioManager.audioManager.Play(pageName);
         closeButton.SetActive(true);
         randomBackground.ChangeBackground();
         setCanvas.SetActive(false);

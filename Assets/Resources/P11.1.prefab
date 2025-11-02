@@ -36,7 +36,7 @@ RectTransform:
   m_Father: {fileID: 4145075398721148333}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.49997258, y: 0.8310645}
-  m_AnchorMax: {x: 0.824621, y: 0.9358424}
+  m_AnchorMax: {x: 0.82950443, y: 0.97448003}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -390,8 +390,8 @@ RectTransform:
   - {fileID: 9204154796550201661}
   m_Father: {fileID: 2742310084101648614}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.40779778, y: 0.24887611}
-  m_AnchorMax: {x: 0.5828374, y: 0.55004054}
+  m_AnchorMin: {x: 0.36784327, y: 0.16157794}
+  m_AnchorMax: {x: 0.6417322, y: 0.65434104}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -470,7 +470,7 @@ RectTransform:
   m_Father: {fileID: 5806773890646880133}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.044292033, y: 0.2224471}
-  m_AnchorMax: {x: 0.4478573, y: 0.63698363}
+  m_AnchorMax: {x: 0.48771158, y: 0.68371576}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -590,6 +590,7 @@ MonoBehaviour:
   - inputFields: {fileID: 7719689980991419102}
     name: shed
   totalCount: 4
+  circleCount: 2
 --- !u!1 &2219687624789275181
 GameObject:
   m_ObjectHideFlags: 0
@@ -822,8 +823,8 @@ RectTransform:
   - {fileID: 8183615259360361338}
   m_Father: {fileID: 4145075398721148333}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.7547978, y: 0.20572145}
-  m_AnchorMax: {x: 0.9298374, y: 0.5068859}
+  m_AnchorMin: {x: 0.68951994, y: 0.15818335}
+  m_AnchorMax: {x: 0.9634089, y: 0.63227546}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1063,8 +1064,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: " Let\u2019s circle the home of each animal and drag and drop  the name
-    in the blank space"
+  m_Text: " Let\u2019s circle the home of each animal and type the name in the blank
+    space"
 --- !u!1 &3570538324032670232
 GameObject:
   m_ObjectHideFlags: 0
@@ -1098,8 +1099,8 @@ RectTransform:
   - {fileID: 7610777432305168731}
   m_Father: {fileID: 4145075398721148333}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.07650703, y: 0.20413075}
-  m_AnchorMax: {x: 0.25154665, y: 0.5052952}
+  m_AnchorMin: {x: 0.033416957, y: 0.15818338}
+  m_AnchorMax: {x: 0.3073059, y: 0.63227546}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1294,9 +1295,9 @@ RectTransform:
   - {fileID: 4374752017252707633}
   m_Father: {fileID: 2742310084101648614}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.08857143, y: 0.24140054}
-  m_AnchorMax: {x: 0.26361105, y: 0.542565}
-  m_AnchoredPosition: {x: 0.5, y: -0.49993896}
+  m_AnchorMin: {x: 0.034558505, y: 0.16359171}
+  m_AnchorMax: {x: 0.30844745, y: 0.6563548}
+  m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3509873629253939655
@@ -1449,8 +1450,8 @@ RectTransform:
   - {fileID: 234387122572500776}
   m_Father: {fileID: 4145075398721148333}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.41657165, y: 0.20572144}
-  m_AnchorMax: {x: 0.59161127, y: 0.5068859}
+  m_AnchorMin: {x: 0.3707853, y: 0.15988085}
+  m_AnchorMax: {x: 0.64467424, y: 0.63397294}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1528,7 +1529,7 @@ RectTransform:
   m_Father: {fileID: 2742310084101648614}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.47036016, y: 0.8702958}
-  m_AnchorMax: {x: 0.7950086, y: 0.9750737}
+  m_AnchorMax: {x: 0.79683447, y: 0.99031293}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1674,8 +1675,8 @@ RectTransform:
   - {fileID: 565475367977668533}
   m_Father: {fileID: 5806773890646880133}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.53948647, y: 0.22713017}
-  m_AnchorMax: {x: 0.9423931, y: 0.6276173}
+  m_AnchorMin: {x: 0.51913536, y: 0.22863765}
+  m_AnchorMax: {x: 0.9746157, y: 0.6776858}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2144,8 +2145,8 @@ RectTransform:
   - {fileID: 1765757270915010712}
   m_Father: {fileID: 2742310084101648614}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.7547978, y: 0.24299125}
-  m_AnchorMax: {x: 0.9298374, y: 0.5441557}
+  m_AnchorMin: {x: 0.70338017, y: 0.16761947}
+  m_AnchorMax: {x: 0.9772691, y: 0.66038257}
   m_AnchoredPosition: {x: 0.5, y: -0.49996948}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}

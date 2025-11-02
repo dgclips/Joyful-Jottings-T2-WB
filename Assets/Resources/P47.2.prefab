@@ -2089,15 +2089,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameClimates:
   - inputFields: {fileID: 815377555211215627}
-    name: 4
-  - inputFields: {fileID: 376315387715584876}
     name: 5
+  - inputFields: {fileID: 376315387715584876}
+    name: 0
   - inputFields: {fileID: 1869197295324981775}
-    name: 45
+    name: 50
   - inputFields: {fileID: 2389409796802267234}
-    name: 49
+    name: 45
   - inputFields: {fileID: 4944235298193396526}
-    name: 9
+    name: 5
   - inputFields: {fileID: 6580909756211686612}
     name: 4
 --- !u!1 &7369005875584588561

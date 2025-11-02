@@ -781,7 +781,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: " Let\u2019s fill in with the correct ordinal numbers"
+  m_Text: Change the following words from one to many
 --- !u!1 &6768608640043078325
 GameObject:
   m_ObjectHideFlags: 0

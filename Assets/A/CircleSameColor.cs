@@ -37,7 +37,11 @@ public class CircleSameColor : MonoBehaviour
             }
             if(count==totalItem)
             {
-                EventManager.GameComplete();
+            foreach (ButtonData but in buttons)
+            {
+               but.button.interactable = false;
+            }
+            EventManager.GameComplete();
             }
         }
         else
