@@ -969,7 +969,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: Look at the picture and write the season name from the words given
+  m_Text: Look at the picture and type the season name from the words given
 --- !u!1 &4614234626552695173
 GameObject:
   m_ObjectHideFlags: 0

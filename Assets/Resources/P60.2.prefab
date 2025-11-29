@@ -3468,7 +3468,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: "Let\u2019s write the numbers 41 to 50"
+  m_Text: "Let\u2019s type the numbers 41 to 50"
 --- !u!1 &9032296112684155801
 GameObject:
   m_ObjectHideFlags: 0

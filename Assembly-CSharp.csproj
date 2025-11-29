@@ -89,6 +89,7 @@
     <Compile Include="Assets\A\DrawContinous.cs" />
     <Compile Include="Assets\Read.cs" />
     <Compile Include="Assets\FullscreenController.cs" />
+    <Compile Include="Assets\A\PageEight.cs" />
     <Compile Include="Assets\A\Audio\Sound.cs" />
     <Compile Include="Assets\A\PageSevenController.cs" />
     <Compile Include="Assets\A\ULDrag.cs" />

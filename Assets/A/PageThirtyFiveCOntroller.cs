@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class PageThirtyFiveCOntroller : MonoBehaviour
 {
     [SerializeField] List<ColorChange> images;
-    Color _currentColor = Color.yellow;
+    Color _currentColor = Color.white;
     public Color lightBlue;
     [SerializeField] List<ColorButton> colors;
     public bool IsNotAlpha;

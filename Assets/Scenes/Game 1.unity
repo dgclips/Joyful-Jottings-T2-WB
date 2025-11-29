@@ -16018,7 +16018,7 @@ MonoBehaviour:
     volume: 0.5
     loop: 0
     audioSource: {fileID: 0}
-  - name: P35..2
+  - name: P35.2
     clip: {fileID: 8300000, guid: 0121a6d325652e64c8c7450c15b8f037, type: 3}
     volume: 0.5
     loop: 0
@@ -16194,22 +16194,22 @@ MonoBehaviour:
     loop: 0
     audioSource: {fileID: 0}
   - name: P59.1
-    clip: {fileID: 8300000, guid: 3642c16711e8dad4cb5bc5afc09e01b7, type: 3}
+    clip: {fileID: 8300000, guid: 31e676b4dab337f468c7c7f5130f838f, type: 3}
     volume: 0.5
     loop: 0
     audioSource: {fileID: 0}
   - name: P59.2
-    clip: {fileID: 8300000, guid: 3642c16711e8dad4cb5bc5afc09e01b7, type: 3}
+    clip: {fileID: 8300000, guid: 53b11ba3f8e39f24a8b911c598f07c06, type: 3}
     volume: 0.5
     loop: 0
     audioSource: {fileID: 0}
   - name: P60.1
-    clip: {fileID: 8300000, guid: 42442d2abe13a2d44b3dc0cdb4af7d55, type: 3}
+    clip: {fileID: 8300000, guid: ca9d73322b8534a4e99916e7323d93b1, type: 3}
     volume: 0.5
     loop: 0
     audioSource: {fileID: 0}
   - name: P60.2
-    clip: {fileID: 8300000, guid: 42442d2abe13a2d44b3dc0cdb4af7d55, type: 3}
+    clip: {fileID: 8300000, guid: cb0aed288c9533c49b8c40ddf57687c9, type: 3}
     volume: 0.5
     loop: 0
     audioSource: {fileID: 0}
@@ -34992,6 +34992,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: P15
       objectReference: {fileID: 0}
+    - target: {fileID: 7150484356918467360, guid: 5fd80e58c18e6a64eb3f85febfffef71, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.05517578
+      objectReference: {fileID: 0}
     - target: {fileID: 7570153664238613706, guid: 5fd80e58c18e6a64eb3f85febfffef71, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -35577,6 +35581,10 @@ PrefabInstance:
     - target: {fileID: 6952563145134100877, guid: 45c1532cc96e7074cbc38ddb65fe62af, type: 3}
       propertyPath: m_Name
       value: P9.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952563145134100877, guid: 45c1532cc96e7074cbc38ddb65fe62af, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9133757387621085276, guid: 45c1532cc96e7074cbc38ddb65fe62af, type: 3}
       propertyPath: m_AnchoredPosition.x
