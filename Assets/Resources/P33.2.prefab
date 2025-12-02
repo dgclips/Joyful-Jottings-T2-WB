@@ -517,11 +517,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameClimates:
   - inputFields: {fileID: 7682848392943789384}
-    name: 5
+    name: 5th
   - inputFields: {fileID: 7755606480404067689}
-    name: 7
+    name: 7th
   - inputFields: {fileID: 9102868339031648002}
-    name: 6
+    name: 6th
 --- !u!1 &2336352374508434422
 GameObject:
   m_ObjectHideFlags: 0

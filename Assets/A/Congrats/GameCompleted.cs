@@ -19,7 +19,8 @@ public class GameCompleted : MonoBehaviour
     
     void Showed()
     {
-        Invoke("Show",1f);
+      closeButton.SetActive(false);
+      Invoke("Show",1f);
     }
 
     void Show()

@@ -375,7 +375,7 @@ MonoBehaviour:
     isCorrect: 1
   - button: {fileID: 1183569372127875094}
     image: {fileID: 9095522785234511761}
-    isCorrect: 1
+    isCorrect: 0
   - button: {fileID: 1452418716211770846}
     image: {fileID: 3275000473303836779}
     isCorrect: 0
@@ -384,7 +384,7 @@ MonoBehaviour:
     isCorrect: 0
   - button: {fileID: 1888823481526648206}
     image: {fileID: 8174324644256181183}
-    isCorrect: 0
+    isCorrect: 1
 --- !u!1 &2795396951483702240
 GameObject:
   m_ObjectHideFlags: 0
@@ -1535,7 +1535,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0.08627451, a: 1}
+  m_Color: {r: 0, g: 1, b: 0.15294118, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1611,7 +1611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 1, b: 0.15265846, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.08627451, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
