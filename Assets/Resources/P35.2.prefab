@@ -1113,7 +1113,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.83
-  m_Text: " Let\u2019s match the coins to its value"
+  m_Text: " Let\u2019s match the coins to their value"
 --- !u!1 &3161211976734971753
 GameObject:
   m_ObjectHideFlags: 0

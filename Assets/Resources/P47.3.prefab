@@ -61,7 +61,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -207,7 +207,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -714,15 +714,9 @@ MonoBehaviour:
   - inputFields: {fileID: 7034827383561298741}
     name: 4
   - inputFields: {fileID: 8766524102704930306}
-    name: 5
+    name: 6
   - inputFields: {fileID: 6223835202991461661}
-    name: 45
-  - inputFields: {fileID: 0}
-    name: 49
-  - inputFields: {fileID: 0}
-    name: 9
-  - inputFields: {fileID: 0}
-    name: 4
+    name: 46
 --- !u!1 &4726794159236009127
 GameObject:
   m_ObjectHideFlags: 0
@@ -864,7 +858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

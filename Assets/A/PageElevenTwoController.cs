@@ -65,4 +65,10 @@ public class PageElevenTwoController : MonoBehaviour
         }
         count = 0;
     }
+
+
+   private void OnEnable()
+   {
+      ResetAllQuestions();
+   }
 }
